@@ -72,9 +72,7 @@ Traditional gift-giving methods often rely on third parties (such as banks or on
    ```
 5. Interact using Hardhat Console or a frontend interface.
 
-## Smart Contract Code
 
-Refer to the `GiftVault.sol` file in the `contracts/` directory.
 
 ## License
 
